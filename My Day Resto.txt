@@ -1,0 +1,18 @@
+==================================================================================My Day Resto==========================================================================
+1. Akun Login
+Nama : Admin
+Email : admin00@gmail.com
+Pass : admin
+
+Nama : Owner
+Email : owner2@gmail.com
+Pass : owner
+
+Nama : Pelayan Dan Kasir
+Email : pelayankasir@gmail.com
+Pass : pelayankasir
+
+2. Database
+Nama Database : Restoran
+user : root
+pass :
